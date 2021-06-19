@@ -1,2 +1,2 @@
 # Rand-Water
-Goeportal
+Geoportal
